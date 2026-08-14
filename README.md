@@ -9,7 +9,7 @@ An interactive **web app** that risk-rates a customer, screens their name agains
 
 Enter a customer's details — country, occupation, product, PEP status, source of funds and more — and the app instantly returns a **risk rating (Low / Medium / High)**, a transparent **score breakdown**, a **sanctions/PEP screening result** (with fuzzy matching to catch spelling variants), an **activity check**, and a clear **Customer Due Diligence recommendation**. It turns the KYC analyst workflow into a single, usable tool.
 
-![App screenshot](screenshot.png)
+![App screenshot](app_screenshot.png)
 *(Add a screenshot of your running app here.)*
 
 ## 🧭 Business context
