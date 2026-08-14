@@ -2,8 +2,8 @@
 
 An interactive **web app** that risk-rates a customer, screens their name against a sanctions/PEP watchlist, monitors their activity, and returns a compliance recommendation — built with Python and Streamlit, and deployed live.
 
-### ▶️ Live app: [Open the tool](https://your-app-link.streamlit.app)
-*(Replace with your Streamlit link once deployed.)*
+### ▶️ Live app: [Open the tool](https://kyc-screening-app-qssvqynzxsuecwxgkjaczp.streamlit.app/)
+
 
 ## 📌 Overview
 
